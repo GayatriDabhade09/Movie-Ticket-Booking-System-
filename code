@@ -172,12 +172,7 @@ int main()
   printf("|                                   CineMagic : Theater Seat Reservation System                              |\n");
   printf("|                                                      ...                                                   |\n");
   printf("|____________________________________________________________________________________________________________|\n\n");
-  printf("                                                 ~:Team Members:~                                             \n\n");
-  printf("                                                1️⃣   Gayatri Dabhade                                          \n");
-  printf("                                                2️⃣   Achala Paradeshi                                         \n");
-  printf("                                                3️⃣   Pratiksha Pawar                                          \n");
-  printf("                                                4️⃣   Aarya Phatale                                            \n\n");
-
+  
 
     while (1) {
         printf("\nMenu:\n");
